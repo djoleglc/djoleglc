@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @djoleglc
 - 👀 I’m interested in Statistics and Finance
 - 🌱 I’m currently learning Financial Engineering
-- 💞️ I’m looking to collaborate on derivative pricing 
-- 📫 How to reach me giovanni.lacagnina@epfl.ch
+- 💞️ I’m looking to collaborate on derivative pricing and machine learning projects with application on Finance
+- 📫 How to reach me giovanni.lacagnina@epfl.ch - giova.lacagnina22@gmail.com
 
 
 <!---
